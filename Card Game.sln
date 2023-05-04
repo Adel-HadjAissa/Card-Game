@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32819.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cards Game", "School Project\Cards Game.csproj", "{115A41AA-6893-4003-A26D-C3350558EF96}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DLL", "DLL\DLL.csproj", "{57E8D36C-6095-45E9-8D80-E72EA91375E5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{115A41AA-6893-4003-A26D-C3350558EF96}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{115A41AA-6893-4003-A26D-C3350558EF96}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{115A41AA-6893-4003-A26D-C3350558EF96}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{115A41AA-6893-4003-A26D-C3350558EF96}.Release|Any CPU.Build.0 = Release|Any CPU
+		{57E8D36C-6095-45E9-8D80-E72EA91375E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57E8D36C-6095-45E9-8D80-E72EA91375E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57E8D36C-6095-45E9-8D80-E72EA91375E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57E8D36C-6095-45E9-8D80-E72EA91375E5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3BD32BC7-4A88-4F21-A4FD-0E0FD8CC21B9}
+	EndGlobalSection
+EndGlobal
